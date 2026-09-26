@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "notes": "双源检测更新（国内 CDN 优先）· 知识库版本号同步",
+  "version": "1.0.9",
+  "notes": "免责声明全面扩写至逾万字（17 节合规条款）· 修复首页免责声明无法展开 · 精简页脚",
   "download": "https://github.com/1099072409/rad-onc-duty/releases/latest"
 }
