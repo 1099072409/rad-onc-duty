@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "notes": "免责声明全面扩写至逾万字（17 节合规条款）· 修复首页免责声明无法展开 · 精简页脚",
+  "version": "1.1.0",
+  "notes": "首页改为「生命体征平稳/不平稳」分诊：不平稳可直接看按最急排序的处置清单 · 修复安装版本号显示",
   "download": "https://github.com/1099072409/rad-onc-duty/releases/latest"
 }
