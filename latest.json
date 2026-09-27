@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "剂量计算并入电解质速查卡 · 首页平稳改为跳转 · 更新提示即时可见 · 修复了一些已知 bug",
+  "version": "1.2.1",
+  "notes": "首页体征清单可展开收起 · 返回手势回到来处 · 新增血气分析速读卡 · 修复了一些已知 bug",
   "download": "https://github.com/1099072409/rad-onc-duty/releases/latest"
 }
