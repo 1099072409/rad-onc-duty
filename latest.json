@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "剂量计算（补钾/补钠）· 抢救药物速查补全用法/适应症/禁忌 · 高钾急救三步曲",
+  "version": "1.2.0",
+  "notes": "剂量计算并入电解质速查卡 · 首页平稳改为跳转 · 更新提示即时可见 · 修复了一些已知 bug",
   "download": "https://github.com/1099072409/rad-onc-duty/releases/latest"
 }
