@@ -1,5 +1,7 @@
 # 放疗科值班决策
 
+**RadOnc Duty** · radiation-oncology night-shift decision checklist app (Android)
+
 **放疗 / 肿瘤科夜间值班 · 汇报决策核对单**（医学教育用途）
 
 医学生第一次值班，最大的焦虑不是"不知道该做什么"，而是**不知道什么情况必须叫一线**——报错了顶多被说一句，该报没报要担责。
