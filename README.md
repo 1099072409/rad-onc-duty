@@ -27,9 +27,9 @@
 
 ## 安装
 
-**Android**：从 [Releases](https://github.com/1099072409/rad-onc-duty/releases/latest) 下载 APK（资产名 `要报一线吗（跟班决策）-v*.apk`）→ 手机上直接安装（需允许"未知来源应用"）→ 装完完全离线可用。
+**Android**：从 [Releases](https://github.com/1099072409/rad-onc-duty/releases/latest) 下载 APK（文件 `Yaobaoyixianma-v*.apk`，页面显示「要报一线吗（跟班决策）· 加密版」）→ 手机上直接安装（需允许"未知来源应用"）→ 装完完全离线可用。
 
-**iOS / 平板 / 电脑**：下载 `跟班决策（ios下载这个）.html`，用 Safari（或任意浏览器）打开即可，单文件离线运行，无需安装。
+**iOS / 平板 / 电脑**：下载 `Genbanjuece-ios.html`（页面显示「跟班决策（ios下载这个）」），用 Safari（或任意浏览器）打开即可，单文件离线运行，无需安装。
 
 ## 声明（重要）
 
